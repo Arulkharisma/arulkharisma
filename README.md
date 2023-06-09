@@ -1,5 +1,5 @@
 ## Hi, I'm Arul Kharisma 👋
-Hello, I'm a computer science student specializing in Informatics. I'm passionate about technology and programming, currently studying various aspects of computing such as software development, and artificial intelligence.
+Hello, I'm a computer science student. I'm passionate about technology and programming, currently studying various aspects of computing such as software development, and artificial intelligence.
 I am very interested and want to know more about this field and I hope to contribute to the development of useful technology.
 
 ## Tech Stack:
