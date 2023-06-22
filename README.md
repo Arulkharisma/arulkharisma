@@ -1,6 +1,5 @@
 ## Hi, I'm Arul Kharisma 👋
-Hello, I'm a computer science student. I'm passionate about technology and programming, currently studying various aspects of computing such as software development, and artificial intelligence.
-I am very interested and want to know more about this field and I hope to contribute to the development of useful technology.
+I am a 4th semester student in the Informatics Study Program who has an interest in technology. I want to know more about this field, and I hope to be able to contribute to the development of useful technology. Able to communicate and work together in a team and easily adapt to new things. During my studies, I worked on several projects, such as desktop applications and websites.
 
 ## Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
