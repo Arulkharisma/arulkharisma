@@ -3,8 +3,8 @@ I am a 5th semester student in the Informatics Study Program who has an interest
 
 ## Github Stats
 
-![arulkharisma's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arulkharisma&theme=tokyonight&hide_border=false)</br>
-![arulkharisma's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arulkharisma&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+![arulkharisma's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arulkharisma&theme=buefy&hide_border=false) <br> <br>
+![arulkharisma's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arulkharisma&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
 
 ## 🏆 Github Trophies
 ![](https://github-profile-trophy.vercel.app/?username=arulkharisma&theme=flat&no-frame=false&no-bg=false&margin-w=4)
