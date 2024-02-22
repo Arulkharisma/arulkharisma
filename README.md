@@ -1,5 +1,4 @@
 ## Hi, I'm Arul Kharisma <img src="assets/image/wavehand.gif" width="30px"/>
-I am a 5th semester student in the Informatics Study Program who has an interest in technology. I want to know more about this field, and I hope to be able to contribute to the development of useful technology. Able to communicate and work together in a team and easily adapt to new things. During my studies, I worked on several projects, such as desktop applications and websites.
 
 ## Github Stats
 
